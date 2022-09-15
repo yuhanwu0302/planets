@@ -1,4 +1,4 @@
 *.dat
 results/plots/
-
+!final.dat
 
