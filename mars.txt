@@ -9,9 +9,18 @@ ttttt
 bbbbb
 
 test change user name
+<<<<<<< HEAD
 
 
 amend
 
 test modify on git hub 
 
+=======
+<<<<<<< HEAD
+
+amend
+=======
+test modify on git hub 
+>>>>>>> 1604dca108932e6ee8217ab05093216b0ac6f11d
+>>>>>>> 2c4aa34647a582accc35fda8ef6f9177a17575b6
